@@ -1,6 +1,6 @@
 // Write your helper functions here!
 
-require("cross-fetch/polyfill");
+//require("cross-fetch/polyfill");
 
 function addDestinationInfo(
   document,
